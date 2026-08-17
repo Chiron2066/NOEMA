@@ -1,0 +1,33 @@
+{
+  "n": 500,
+  "gamma": 2.0,
+  "pi_terciles": [
+    0.30175973799805245,
+    0.4942077758188969
+  ],
+  "closed_book_acc": 0.154,
+  "clean_acc_base": 0.82,
+  "clean_acc_gated": 0.836,
+  "empty_base": 0.0,
+  "empty_gated": 0.0,
+  "clean_base_low_pi": 0.8023952095808383,
+  "clean_gated_low_pi": 0.8383233532934131,
+  "conflict_follows_base_low_pi": 0.3473053892215569,
+  "conflict_follows_gated_low_pi": 0.3712574850299401,
+  "clean_base_mid_pi": 0.8433734939759037,
+  "clean_gated_mid_pi": 0.8313253012048193,
+  "conflict_follows_base_mid_pi": 0.24096385542168675,
+  "conflict_follows_gated_mid_pi": 0.3674698795180723,
+  "clean_base_high_pi": 0.8143712574850299,
+  "clean_gated_high_pi": 0.8383233532934131,
+  "conflict_follows_base_high_pi": 0.31736526946107785,
+  "conflict_follows_gated_high_pi": 0.3532934131736527,
+  "unknown_items_frac": 0.846,
+  "clean_base_on_unknown": 0.7966903073286052,
+  "clean_gated_on_unknown": 0.8108747044917257,
+  "gated_minus_base_unknown": 0.014184397163120567,
+  "gated_minus_base_unknown_ci": [
+    -0.01182033096926714,
+    0.0425531914893617
+  ]
+}

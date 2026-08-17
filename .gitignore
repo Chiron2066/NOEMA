@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Oversized run artifacts (GitHub hard-caps files at 100MB)
+layer_sweep/states.npy
+
+# Local model caches if ever placed here
+*.gguf
+*.safetensors

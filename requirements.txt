@@ -1,0 +1,6 @@
+numpy
+# GPU experiments:
+torch
+transformers
+datasets
+accelerate

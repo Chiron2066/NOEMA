@@ -1,0 +1,66 @@
+{
+  "arm": "annealed",
+  "history": [
+    {
+      "step": 0,
+      "reward": 0.0,
+      "ece": 0.33292069348258,
+      "distinct2": 0.8136920904613657,
+      "sem_div": 0.5837991146040535,
+      "phase": "init"
+    },
+    {
+      "step": 100,
+      "reward": 0.61,
+      "ece": 0.3456393185400755,
+      "distinct2": 0.7524981307108967,
+      "sem_div": 0.5824343238488331,
+      "phase": "consolidation"
+    },
+    {
+      "step": 200,
+      "reward": 0.64,
+      "ece": 0.3450175473965046,
+      "distinct2": 0.781528319180321,
+      "sem_div": 0.6317140944687187,
+      "phase": "consolidation"
+    },
+    {
+      "step": 300,
+      "reward": 0.63,
+      "ece": 0.36655603264058656,
+      "distinct2": 0.7321158381848036,
+      "sem_div": 0.6290676015453787,
+      "phase": "consolidation"
+    },
+    {
+      "step": 400,
+      "reward": 0.61,
+      "ece": 0.37783778035128635,
+      "distinct2": 0.6804639535393758,
+      "sem_div": 0.6511786511307226,
+      "phase": "consolidation"
+    },
+    {
+      "step": 500,
+      "reward": 0.62,
+      "ece": 0.3944138786538693,
+      "distinct2": 0.6597102452388834,
+      "sem_div": 0.578147016031634,
+      "phase": "consolidation"
+    },
+    {
+      "step": 600,
+      "reward": 0.63,
+      "ece": 0.39037041744696876,
+      "distinct2": 0.7291249622103281,
+      "sem_div": 0.6053905330662512,
+      "phase": "consolidation"
+    }
+  ],
+  "signature": {
+    "ece_trend": 0.010811375895554802,
+    "diversity_trend": 0.0027022927290784845,
+    "decay_coupling": -0.6584354689415282
+  }
+}

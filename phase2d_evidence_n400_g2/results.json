@@ -1,0 +1,29 @@
+{
+  "n": 400,
+  "gamma": 2.0,
+  "scorer_top1": 0.98,
+  "base_acc": 0.8075,
+  "block_gated_acc": 0.81,
+  "evidence_gated_acc": 0.8225,
+  "base_from_distractor_rate": 0.0,
+  "evid_vs_base": {
+    "flips_gained": 20,
+    "flips_lost": 14,
+    "p": 0.3915
+  },
+  "block_vs_base": {
+    "flips_gained": 17,
+    "flips_lost": 16,
+    "p": 1.0
+  },
+  "evid_vs_block": {
+    "flips_gained": 11,
+    "flips_lost": 6,
+    "p": 0.3323
+  },
+  "on_scorer_hits": {
+    "n": 392,
+    "base": 0.8112244897959183,
+    "evidence_gated": 0.8239795918367347
+  }
+}

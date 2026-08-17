@@ -1,0 +1,33 @@
+{
+  "n": 25,
+  "gamma": 4.0,
+  "pi_terciles": [
+    0.27284819315124165,
+    0.3942493233533608
+  ],
+  "closed_book_acc": 0.16,
+  "clean_acc_base": 0.92,
+  "clean_acc_gated": 0.84,
+  "empty_base": 0.0,
+  "empty_gated": 0.0,
+  "clean_base_low_pi": 1.0,
+  "clean_gated_low_pi": 0.875,
+  "conflict_follows_base_low_pi": 0.375,
+  "conflict_follows_gated_low_pi": 0.5,
+  "clean_base_mid_pi": 0.75,
+  "clean_gated_mid_pi": 0.75,
+  "conflict_follows_base_mid_pi": 0.125,
+  "conflict_follows_gated_mid_pi": 0.375,
+  "clean_base_high_pi": 1.0,
+  "clean_gated_high_pi": 0.8888888888888888,
+  "conflict_follows_base_high_pi": 0.5555555555555556,
+  "conflict_follows_gated_high_pi": 0.5555555555555556,
+  "unknown_items_frac": 0.84,
+  "clean_base_on_unknown": 0.9047619047619048,
+  "clean_gated_on_unknown": 0.8095238095238095,
+  "gated_minus_base_unknown": -0.09523809523809523,
+  "gated_minus_base_unknown_ci": [
+    -0.2857142857142857,
+    0.09523809523809523
+  ]
+}

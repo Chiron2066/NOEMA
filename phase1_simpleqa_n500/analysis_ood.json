@@ -1,0 +1,22 @@
+{
+  "n": 500,
+  "accuracy": 0.03,
+  "auroc_se_indomain": 0.713745704467354,
+  "se_ci": [
+    0.550530615032458,
+    0.8609876249209023
+  ],
+  "auroc_ood_ridge": 0.5865292096219932,
+  "ood_ci": [
+    0.4326816620800613,
+    0.7644379677608033
+  ],
+  "transfer_ratio": 0.8217621569571498,
+  "ece_transferred": 0.015592106648382722,
+  "gate_10pct": {
+    "coverage": 0.002,
+    "risk_answered": 0.0,
+    "base_error": 0.97,
+    "errors_converted_to_abstention": 1.0
+  }
+}

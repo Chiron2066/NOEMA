@@ -1,0 +1,25 @@
+{
+  "auroc_sampled_se": 0.8204,
+  "auroc_ridge_head": 0.8189923009775814,
+  "ci": [
+    0.7934709992226993,
+    0.8437682232484901
+  ],
+  "ratio": 0.9982841308844239,
+  "H2_pass": true,
+  "lambda_cv": 10000.0,
+  "ece_platt": 0.03063528598756695,
+  "aurc": 0.34567224778592537,
+  "gate_5pct": {
+    "coverage": 0.055,
+    "risk_answered": 0.03636363636363636,
+    "base_error": 0.591,
+    "errors_converted_to_abstention": 0.9966159052453468
+  },
+  "gate_10pct": {
+    "coverage": 0.082,
+    "risk_answered": 0.0975609756097561,
+    "base_error": 0.591,
+    "errors_converted_to_abstention": 0.9864636209813875
+  }
+}

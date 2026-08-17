@@ -1,0 +1,13 @@
+{
+  "auroc_sampled_se": 0.7895316540561249,
+  "auroc_precision_head": 0.7080739392778469,
+  "ece": 0.21199982740623485,
+  "aurc": 0.6684209087729585,
+  "H2_pass": false,
+  "gate@5%risk": {
+    "coverage": 0.008,
+    "risk_answered": 0.0,
+    "base_error": 0.788,
+    "errors_converted_to_abstention": 1.0
+  }
+}
